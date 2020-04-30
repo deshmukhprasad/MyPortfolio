@@ -162,7 +162,7 @@ dd {
 }
 
 .social_media {
-		margin-top: 50px;
+	margin-top: 50px;
 	margin-bottom: 20px;
 	margin-right: 10px;
 	margin-left: 10px
@@ -282,11 +282,18 @@ dd {
     align-items: center;
   }
 
-  .social_media {
-    margin : auto;
+  .typewriter h1 {
+    margin-left: 15%;
+    font-size: 1.5em;
   }
+
+  .social_media {
+    margin-left: 10%;
+    align-content: center;
+  }
+
 	.role {
-  	margin : 0px;
+  	margin-left : 10%;
   	font-size: 5vw;
   }
 
@@ -470,7 +477,7 @@ p {
 } 
 
 /* window size 400 width set */
-@media screen and (max-width: 400px) { 
+@media screen and (max-width: 530px) { 
     .column { 
         width: 100%; 
     } 
@@ -520,7 +527,7 @@ p {
 }
 
 /* window size 400 width set */
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 530px) {
     .wrap {
       display: block;
     }
