@@ -1,12 +1,21 @@
-# MyPortfolio
-This is a portfolio website created by me.
 
-**- Responsive in Nature**
+# theportfolio
 
-**- Light Weight**
+**Portfolio for everyone!** 
+Live Preview - [Click Here](http://thevipinmishra.github.io/theportfolio)
 
-You can visit the website using this [link](https://deshmukhprasad.github.io/MyPortfolio/)
+## Preview
 
-# Technology Stack:
-- HTML / CSS
-- Javascript
+![thefolio preview](https://raw.githubusercontent.com/thevipinmishra/theportfolio/master/preview.png "thefolio preview")
+
+
+## Folder Structure
+
+ - assets - fonts, icons and images.
+ - dist - scss (CSS Preprocessor for flexibility)
+ - src - compiled CSS & JS files.
+ - index.html - the static index.html
+
+## Contribute
+
+Pull Requests are welcome. :)
